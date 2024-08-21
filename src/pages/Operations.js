@@ -14,7 +14,7 @@ const Operations = () => {
   }, [navigate]);
 
   const onContainerClick = useCallback(() => {
-    // Please sync "Water Ops - Water Pressure 1.0" to the project
+
   }, []);
 
   return (

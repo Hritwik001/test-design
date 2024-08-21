@@ -7,7 +7,7 @@ const Insurance = () => {
   const navigate = useNavigate();
 
   const onKeyboardBackspaceIconClick = useCallback(() => {
-    // Please sync "Buildings" to the project
+
   }, []);
 
   const onTabsHorizontalVerticalClick = useCallback(() => {
@@ -19,15 +19,15 @@ const Insurance = () => {
   }, [navigate]);
 
   const onFrameContainerClick = useCallback(() => {
-    // Please sync "Fire Risk" to the project
+
   }, []);
 
   const onButtonsContainerClick = useCallback(() => {
-    // Please sync "Water Ins - Pipe Temperature 1.0" to the project
+
   }, []);
 
   const onFrameContainerClick1 = useCallback(() => {
-    // Please sync "Health Risk - IQ" to the project
+
   }, []);
 
   return (
